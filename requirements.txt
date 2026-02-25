@@ -4,3 +4,7 @@ pandas
 python-dotenv
 google-generativeai
 python-multipart
+streamlit
+PyPDF2
+google-genai
+python-docx
